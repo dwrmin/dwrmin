@@ -1,4 +1,4 @@
 B - Goverment
-I - Comtrol
+I - Control
 R - Drone
 D

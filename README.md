@@ -1,7 +1,7 @@
 B - Goverment
 
-I - Control
+I - Controled
 
-R - Drone
-
-D
+R - Spying
+ 
+D - Drones
